@@ -120,7 +120,7 @@ export const texts = [
 
 // Thumbnails Page
 export const thumbnailImages = [
-  "assets/art1.jpg",
+  "assets/thumbnail/1.webp",
   "assets/art2.jpg",
   "assets/art3.jpg",
   "assets/art4.jpg",
@@ -135,7 +135,7 @@ export const thumbnailImages = [
 
 // Flayers Designs Page
 export const flayersImages = [
-  "/assets/slider1.jpg",
+  "/assets/flyer/1.webp",
   "/assets/slider2.jpg",
   "/assets/slider3.jpg",
 ];
@@ -144,7 +144,7 @@ export const flayersImages = [
 
 // Social Media Posts Page
 export const socialMediaPostsImages = [
-  "assets/art1.jpg",
+  "assets/social_media/1.webp",
   "assets/art2.jpg",
   "assets/art3.jpg",
   "assets/art4.jpg",
