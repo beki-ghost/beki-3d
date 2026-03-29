@@ -15,9 +15,9 @@ export const menuItems = [
     image: "/assets/art1.jpg",
   },
   {
-    name: "About",
+    name: "About me",
     href: "/about",
-    image: "/assets/art2.jpg",
+    image: "/assets/me.webp",
   },
   {
     name: "Contact",
@@ -181,8 +181,8 @@ export const socialMediaPostsImages = [
   "assets/social_media/6.webp",
   "assets/social_media/7.webp",
   "assets/social_media/8.jpg",
-  "assets/social_media/9.webp",
-  "assets/social_media/10.webp",
+  "assets/social_media/9.jpg",
+  "assets/social_media/10.jpg",
   "assets/social_media/11.webp",
   "assets/social_media/12.webp",
   "assets/social_media/13.webp",
