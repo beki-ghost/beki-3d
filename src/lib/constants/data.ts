@@ -1,12 +1,12 @@
 // loader contents
 export const loadertext = [
-  { text: "We shape ideas into visuals" },
-  { text: "Welcome to Made Up Studio" },
+  { text: "Shape ideas into visuals" },
+  { text: "Welcome to my portfolio" },
 ];
 // loader end
 
 // nav-bar
-export const siteName = "Made Up Studio";
+export const siteName = "Beki 3d portfolio";
 
 export const menuItems = [
   {
@@ -35,7 +35,7 @@ export const socialItems = [
 // nav-bar end
 
 // Home Page
-export const email = "hello@madeupStudio@com";
+export const email = "awegechewb@gmail.com";
 
 export const slideData = [
   {
@@ -43,28 +43,28 @@ export const slideData = [
     image: "/assets/slider1.jpg",
     bgColor: "#311512",
     to: "/thumbnails",
-    year: 2022,
+    year: 2026,
   },
   {
     title: "Flayer Designs",
     image: "/assets/slider2.jpg",
     bgColor: "#995435",
     to: "/flayers-designs",
-    year: 2023,
+    year: 2026,
   },
   {
     title: "Social Media Posts",
     image: "/assets/art7.jpg",
     bgColor: "#450a0a",
     to: "/social-media-posts",
-    year: 2024,
+    year: 2026,
   },
   {
     title: "New Age Artworks",
     image: "/assets/art2.jpg",
     bgColor: "#452a43",
     to: "/sticker-designs",
-    year: 2025,
+    year: 2026,
   },
   {
     title: "Sticker Designs",
@@ -102,17 +102,17 @@ export const texts = [
   {
     title: "About Us",
     content:
-      "HELLO. WE ARE MADE UP STUDIO — a creative studio focused on visual design, motion, and digital experiences. We turn ideas into clear, bold, and meaningful visuals that help brands communicate and stand out.",
+      "HELLO. I am Bereket Awegechew — a creative Designer focused on visual design and digital experiences. Turning ideas into clear, bold, and meaningful visuals that help brands communicate and stand out.",
   },
   {
     title: "What We Do",
     content:
-      "We specialize in graphic design, motion design, and UI/UX for brands and creators. Our work ranges from high-impact thumbnails and social media content to clean, intuitive interfaces and visual systems. Working with clients globally, we create designs that capture attention, strengthen identity, and drive engagement across digital platforms.",
+      "I specialize in graphic design, Video editing, and UI/UX for brands and creators. My work ranges from high-impact thumbnails and social media content to clean, intuitive interfaces and visual systems. Working with clients globally, I create designs that capture attention, strengthen identity, and drive engagement across digital platforms.",
   },
   {
     title: "Our Process",
     content:
-      "Every project starts with understanding your goals and audience. From there, we explore concepts, define visual direction, and refine every detail to ensure consistency and impact. Our process is collaborative, flexible, and focused on delivering design that works as beautifully as it looks.",
+      "Every project starts with understanding your goals and audience. From there, I explore concepts, define visual direction, and refine every detail to ensure consistency and impact. Our process is collaborative, flexible, and focused on delivering design that works as beautifully as it looks.",
   },
 ];
 
@@ -120,7 +120,7 @@ export const texts = [
 
 // Thumbnails Page
 export const thumbnailImages = [
-  "assets/thumbnail/1.webp",
+ 
   "assets/art2.jpg",
   "assets/art3.jpg",
   "assets/art4.jpg",
@@ -135,7 +135,7 @@ export const thumbnailImages = [
 
 // Flayers Designs Page
 export const flayersImages = [
-  "/assets/flyer/1.webp",
+  
   "/assets/slider2.jpg",
   "/assets/slider3.jpg",
 ];
@@ -144,7 +144,7 @@ export const flayersImages = [
 
 // Social Media Posts Page
 export const socialMediaPostsImages = [
-  "assets/social_media/1.webp",
+  
   "assets/art2.jpg",
   "assets/art3.jpg",
   "assets/art4.jpg",
