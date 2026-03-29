@@ -121,14 +121,27 @@ export const texts = [
 // Thumbnails Page
 export const thumbnailImages = [
  
-  "assets/art2.jpg",
-  "assets/art3.jpg",
-  "assets/art4.jpg",
-  "assets/art5.jpg",
-  "assets/art6.jpg",
-  "assets/art7.jpg",
-  "assets/art8.jpg",
-  "assets/art9.jpg",
+  
+  "assets/thumbnail/2.webp",
+  "assets/thumbnail/3.webp",
+  "assets/thumbnail/4.webp",
+  "assets/thumbnail/5.webp",
+  "assets/thumbnail/6.webp",
+  "assets/thumbnail/7.webp",
+  "assets/thumbnail/8.webp",
+  "assets/thumbnail/9.webp",
+  "assets/thumbnail/10.webp",
+  "assets/thumbnail/11.webp",
+  "assets/thumbnail/12.webp",
+  "assets/thumbnail/13.webp",
+  "assets/thumbnail/14.webp",
+  "assets/thumbnail/15.webp",
+  "assets/thumbnail/16.webp",
+  "assets/thumbnail/17.webp",
+  "assets/thumbnail/18.webp",
+  "assets/thumbnail/19.webp",
+  "assets/thumbnail/20.webp",
+
 ];
 
 //  Thumbnails Page end
@@ -136,8 +149,23 @@ export const thumbnailImages = [
 // Flayers Designs Page
 export const flayersImages = [
   
-  "/assets/slider2.jpg",
-  "/assets/slider3.jpg",
+  "/assets/flyer/1.webp",
+  "/assets/flyer/2.webp",
+  "/assets/flyer/3.webp",
+  "/assets/flyer/4.webp",
+  "/assets/flyer/5.webp",
+  "/assets/flyer/6.webp",
+  "/assets/flyer/7.webp",
+  "/assets/flyer/8.webp",
+  "/assets/flyer/9.webp",
+  "/assets/flyer/10.webp",
+  "/assets/flyer/11.webp",
+  "/assets/flyer/12.webp",
+  "/assets/flyer/13.webp",
+  "/assets/flyer/14.webp",
+  "/assets/flyer/15.webp",
+  "/assets/flyer/16.webp",
+  "/assets/flyer/17.webp",
 ];
 
 // Flayers Designs Page end
@@ -145,25 +173,56 @@ export const flayersImages = [
 // Social Media Posts Page
 export const socialMediaPostsImages = [
   
-  "assets/art2.jpg",
-  "assets/art3.jpg",
-  "assets/art4.jpg",
-  "assets/art5.jpg",
-  "assets/art6.jpg",
-  "assets/art7.jpg",
-  "assets/art8.jpg",
-  "assets/art9.jpg",
+  "assets/social_media/1.webp",
+  "assets/social_media/2.webp",
+  "assets/social_media/3.webp",
+  "assets/social_media/4.webp",
+  "assets/social_media/5.webp",
+  "assets/social_media/6.webp",
+  "assets/social_media/7.webp",
+  "assets/social_media/8.jpg",
+  "assets/social_media/9.webp",
+  "assets/social_media/10.webp",
+  "assets/social_media/11.webp",
+  "assets/social_media/12.webp",
+  "assets/social_media/13.webp",
+  "assets/social_media/14.webp",
+  "assets/social_media/15.webp",
+  "assets/social_media/16.webp",
+  "assets/social_media/17.webp",
+  "assets/social_media/18.webp",
+  "assets/social_media/19.webp",
+  "assets/social_media/20.webp",
+  "assets/social_media/21.webp",
+  "assets/social_media/22.webp",
+  "assets/social_media/23.webp",
+  "assets/social_media/24.webp",
+  "assets/social_media/25.webp",
+  "assets/social_media/26.webp",
+  "assets/social_media/26.webp",
+  "assets/social_media/27.webp",
+  "assets/social_media/28.webp",
+  "assets/social_media/29.webp",
+  "assets/social_media/30.webp",
+  "assets/social_media/31.webp",
+  "assets/social_media/32.webp",
+  "assets/social_media/33.webp",
+  "assets/social_media/34.webp",
+  "assets/social_media/35.webp",
+  "assets/social_media/36.webp",
+  "assets/social_media/37.webp",
+  "assets/social_media/38.webp",
+  "assets/social_media/39.webp",
+  "assets/social_media/40.webp",
 ];
 
 // Social Media Posts Page end
 
 export const stickerDesignImages = [
-  "/assets/img1.jpg",
-  "/assets/img2.jpg",
-  "/assets/img3.jpg",
-  "/assets/img2.jpg",
-  "/assets/img1.jpg",
-  "/assets/img3.jpg",
+  "/assets/stickers/1.webp",
+  "/assets/stickers/2.webp",
+  "/assets/stickers/3.webp",
+  "/assets/stickers/4.webp",
 ];
 
 // contsat page
@@ -174,14 +233,9 @@ export const contactSections = [
     items: [
       { text: "Start a Project", isLink: false, href: "" },
       {
-        text: "hello@madeupstudio.com",
+        text: "awegechewb@gmail.com",
         isLink: true,
-        href: "mailto:hello@madeupstudio.com",
-      },
-      {
-        text: "careers@madeupstudio.com",
-        isLink: true,
-        href: "mailto:careers@madeupstudio.com",
+        href: "awegechewb@gmail.com",
       },
     ],
   },
@@ -189,8 +243,8 @@ export const contactSections = [
     id: "02",
     title: "Location",
     items: [
-      { text: "Made Up Address", isLink: false, href: "" },
-      { text: "Creative District", isLink: false, href: "" },
+      { text: "Addis Ababa", isLink: false, href: "" },
+      { text: "Ethiopia", isLink: false, href: "" },
     ],
   },
   {
